@@ -1,0 +1,1 @@
+Linear Search'te bir dizinin solundan başlayarak bulunmak istenilen sayının her elemanla karşılaştırarak bulunmasını içeren algoritmadır.

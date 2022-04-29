@@ -1,0 +1,1 @@
+Binary Search'te sıralanmış bir dizinin bulunmak istenilen sayının soldan ve sağdan alanı daraltarak (her aramada size/2) bulmasını sağlayan algoritmadır.
